@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caricia de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-angel/) |
+| **Get License** | [License this song: Caricia de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bailando en lo oscuro, tú y yo sin freno
+> Tu piel es un fuego que quema veneno
+> Dame esa mirada, que me lleva al cielo
+> Rompiendo las reglas, yo muerdo el anzuelo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
