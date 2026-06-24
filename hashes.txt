@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricia de ángel
+
+This log tracks the cryptographic history and versioning for the song **Caricia de ángel** (caricia-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T14:52:48.740641 | `v1` | `05647aac36ad1eb39b994f18547f171c1c1f3ab266e87708ff069f92a5c021ba` | `d85fb22d554fbb1c0a8c21c1481ff56f96350f603d7b15dbd5eb41302e1e2f7b` | `2026-06-24_caricia-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

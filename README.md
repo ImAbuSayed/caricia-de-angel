@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricia-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Caricia de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-angel/) |
+| **Get License** | [Official Music Licensing for Caricia de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricia-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `05647aac36ad1eb39b994f18547f171c1c1f3ab266e87708ff069f92a5c021ba` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
